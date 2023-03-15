@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+}
+
+header {
+    background-color: yellow;
+}
+
+.info {
+    display: block;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    width: 100%;
+    background-color: orange;
+    color: green;
+}
+
+img {
+    width: 100%;
+}
+
+h3 {
+    background-color: blue;
+    color: pink;
+}
